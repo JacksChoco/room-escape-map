@@ -1,0 +1,34 @@
+{
+  "rooms": [
+    {
+      "id": 1,
+      "title": "Romance in Prague",
+      "thumbnailUrl": "http://placehold.it/150/30ac17"
+    },
+    {
+      "id": 2,
+      "title": "Luxury apartment",
+      "thumbnailUrl": "http://placehold.it/150/dff9f6"
+    },
+    {
+      "id": 3,
+      "title": "Amazingly bright topfloor flat in central location",
+      "thumbnailUrl": "http://placehold.it/150/1941e9"
+    },
+    {
+      "id": 4,
+      "title": "Apartment in Prague 6",
+      "thumbnailUrl": "http://placehold.it/150/39e985"
+    },
+    {
+      "id": 5,
+      "title": "Room in Prague #2 - Best location",
+      "thumbnailUrl": "http://placehold.it/150/7735a"
+    },
+    {
+      "id": 6,
+      "title": "Big Bright Apartment Downtown",
+      "thumbnailUrl": "http://placehold.it/150/c672a0"
+    }
+  ]
+}
