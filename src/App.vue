@@ -1,15 +1,12 @@
 <template>
     <div id="app">
-        <room-list></room-list>
+        <img src="./assets/logo.png" alt="">
+        <router-view></router-view>
     </div>
 </template>
 
 <script>
-    import RoomList from './components/RoomList';
-
     export default {
-        components: {
-            RoomList
-        }
+        name: 'app'
     }
 </script>
